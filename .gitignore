@@ -221,3 +221,21 @@ __marimo__/
 .streamlit/secrets.toml
 
 project/
+
+# Python
+.venv/
+git_env/
+
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+
+# Local databases
+data/db/*.db
+
+# OS junk
+.DS_Store
+
+git_env/
